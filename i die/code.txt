@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon="pixelbald.ico" --windowed --add-data "pixelbald.png:." --add-data "pixel-wizard-games-applications-260nw-675648199.png:." --add-data "Untitled.png:." main.py
